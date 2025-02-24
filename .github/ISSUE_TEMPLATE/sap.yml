@@ -1,4 +1,5 @@
 name: New Issue
+description: Create New Issue
 body:
   - type: markdown
     attributes:
