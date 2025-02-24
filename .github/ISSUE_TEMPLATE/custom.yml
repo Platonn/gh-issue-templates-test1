@@ -24,10 +24,10 @@ body:
         Thank you for your understanding and cooperation, and for being a valued part of the SAP Composable Storefront community.
 
   - type: checkboxes
-    id: blank
+    id: z
     attributes:
-      label: _
-      description: _
-      options: _
-        - label: lbl
+      label: a
+      description: b
+      options: c
+        - label: d
           required: true
