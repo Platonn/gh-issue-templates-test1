@@ -1,5 +1,5 @@
 name: Create Issue
-description: _
+description: Create New Issue
 title: "----------------------------------------------------"
 body:
   - type: markdown
