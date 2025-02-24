@@ -29,5 +29,5 @@ body:
       label: _
       description: _
       options: _
-        - label: 
+        - label: _
           required: true
