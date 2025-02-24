@@ -26,6 +26,6 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: aaa
+      label: ___
       options:
-        - label: ccc
+        - label: ___
