@@ -1,5 +1,5 @@
 name: New Issue
-description: Create New Issue
+description: Create New Issue [Code of Conduct](https://example.com).
 title: "Visit ABC or XYZ instead"
 body:
   - type: markdown
