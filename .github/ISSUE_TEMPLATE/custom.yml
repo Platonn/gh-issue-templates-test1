@@ -24,10 +24,9 @@ body:
         Thank you for your understanding and cooperation, and for being a valued part of the SAP Composable Storefront community.
 
   - type: checkboxes
-    id: z
+    id: terms
     attributes:
-      label: a
-      description: b
-      options: c
-        - label: d
-          required: true
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      options:
+        - label: I agree to follow this project's Code of Conduct
