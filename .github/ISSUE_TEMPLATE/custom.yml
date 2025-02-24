@@ -27,6 +27,6 @@ body:
     id: terms
     attributes:
       label: aaa
-      description: -
+      description: bbb
       options:
-        - label: -
+        - label: ccc
