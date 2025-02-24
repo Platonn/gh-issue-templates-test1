@@ -6,4 +6,5 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report! [Code of Conduct](https://example.com). 
-  - type: checkbox
+  - type: checkboxes
+    id: terms
